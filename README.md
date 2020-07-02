@@ -1,2 +1,2 @@
 # simple-chat-server
-Server part for the simple chat server.
+Server part of the simple chat server.
